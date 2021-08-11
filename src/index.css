@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+.Profile {
+  margin-left: 40%;
+}
+
+
+img{
+  border-style: solid;
+  border-color: red;
+  border-radius: 20px;
+  width: 200px;
+  height:auto;
+  margin-top: 5%;
+}
+button{
+  font-size:15px ; 
+  color : white ;
+  width: 100px ;
+  background-color: red ;
+  margin-top: 5%;
+  margin-left: 2%;
+}
+.clock{
+  font-size: 30px;
+  color: white;
+  background-color: red;
+  width: 100px;
+  margin-left: 2%;
+  text-align: center;
+}
